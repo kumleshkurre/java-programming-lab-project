@@ -1,4 +1,4 @@
-# ☕ Java Programming Lab Project
+#  Java Programming Lab Project
 
 This repository contains a **complete Java Programming College Lab Project** covering **basic to advanced Java concepts** with practical examples.
 
@@ -74,3 +74,10 @@ College Practical / Lab Project
 - **JDK:** JDK 8 or above  
 
 ---
+
+## 👨‍💻 Author
+ Kumlesh Kurre
+ 
+## ⭐ Support
+If you like this project, please ⭐ star the repository to support my work!
+  
